@@ -1,7 +1,7 @@
 ### CODEMY course 
 Here you can find code of tkinter exercises from youtube chanel https://www.youtube.com/c/Codemycom <br />
 
-Progress 37/142 ![26%](https://progress-bar.dev/26)
+Progress 44/152 ![29%](https://progress-bar.dev/29)
 
 #### Small applications built during course in below files:
 <!-- Apps -->

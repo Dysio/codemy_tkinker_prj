@@ -15,6 +15,7 @@ var = tk.StringVar()
 c = tk.Checkbutton(root, text="Check this box", variable=var, onvalue="On", offvalue="Off")
 c.deselect()
 c.pack()
+print(var)
 
 myLabel = tk.Label(root, text=var.get()).pack()
 
